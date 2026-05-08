@@ -69,17 +69,17 @@ TaskManager/
 # Screenshots
 
 ## Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home.png.png)
 
 ---
 
 ## Tasks Added
-![Tasks Added](./screenshots/tasks.png)
+![Tasks Added](./screenshots/tasks.png.png)
 
 ---
 
 ## Completed Task
-![Completed Task](./screenshots/completed.png)
+![Completed Task](./screenshots/completed.png.png)
 
 ---
 
