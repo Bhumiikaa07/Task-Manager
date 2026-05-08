@@ -69,13 +69,13 @@ TaskManager/
 # Screenshots
 
 ## Home Page
-<img src="https://github.com/Bhumiikaa07/Task-Manager/raw/main/Screenshots/home.png?raw=true" width="700">
+<img src="https://github.com/Bhumiikaa07/Task-Manager/raw/main/Screenshots/home.png.png?raw=true" width="700">
 
 ## Tasks Added
-<img src="https://github.com/Bhumiikaa07/Task-Manager/raw/main/Screenshots/tasks.png?raw=true" width="700">
+<img src="https://github.com/Bhumiikaa07/Task-Manager/raw/main/Screenshots/tasks.png,png?raw=true" width="700">
 
 ## Completed Task
-<img src="https://github.com/Bhumiikaa07/Task-Manager/raw/main/Screenshots/completed.png?raw=true" width="700">
+<img src="https://github.com/Bhumiikaa07/Task-Manager/raw/main/Screenshots/completed.png.png?raw=true" width="700">
 ---
 
 ## How to Run the Project
